@@ -1,7 +1,7 @@
 # Hydration-Driven Inversion of the Methylmercury Halide Stability Series
 
 **Alfonso Cervantes-Barragán**  
-Department of Materials Science, Universidad del Norte  
+Dept. Mathematics, Physics and Data Sciences, Universidad del Norte  
 Barranquilla, Colombia · barrangana@uninorte.edu.co / a.cervantes2012@hotmail.com
 
 ---
