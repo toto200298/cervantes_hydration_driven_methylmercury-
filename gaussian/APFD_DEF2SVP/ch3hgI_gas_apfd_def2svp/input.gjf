@@ -1,0 +1,26 @@
+%NProcShared=24
+%Chk=ch3hgI_gas_apfd_def2svp.chk
+
+#Opt Freq apfd/Def2SVP 
+
+Optimization MeHgI-gas-apfd-def2svp phase
+
+0 1
+C          -9.22193         2.73316         0.00000
+Hg         -7.13790         2.93396        -0.00000
+H          -9.50822         1.85022         0.60756
+H          -9.58020         2.59779        -1.04117
+H          -9.68106         3.64528         0.43361
+I          -4.43019         3.19544        -0.00000
+
+
+
+
+
+
+           
+
+
+
+
+

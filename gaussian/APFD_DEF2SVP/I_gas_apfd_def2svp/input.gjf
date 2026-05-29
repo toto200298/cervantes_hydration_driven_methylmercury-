@@ -1,0 +1,17 @@
+%NProcShared=24
+%Chk=input09052022v42.chk
+
+#Opt Freq apfd/def2svp Test
+
+Optimization I-simulation
+
+-1 1
+I   0.00000 0.00000 0.00000
+
+
+           
+
+
+
+
+

@@ -1,0 +1,20 @@
+%NProcShared=24
+%Chk=OH_gas_apfd_def2svp.chk
+
+#Opt Freq apfd/def2svp Test
+
+Optimization OH-simulation
+
+-1  1
+O          -8.75409         1.69014         0.00000
+H          -9.07742         1.06652         0.66892
+
+
+
+
+           
+
+
+
+
+
