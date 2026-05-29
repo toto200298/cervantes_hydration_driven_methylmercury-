@@ -1,0 +1,28 @@
+%NProcShared=24
+%Chk=ch3hgoh_gas_pbeo_def2svp.chk
+
+#Opt Freq PBE1PBE/Def2SVP  test  
+
+Optimization MeHgoh-gas-apfd-def2svp phase
+
+0  1
+C          -9.57536         2.78239        -0.00001
+Hg         -7.49454         3.01386        -0.00018
+H         -10.05261         3.72905         0.32683
+H          -9.85645         1.96647         0.69713
+H          -9.91919         2.52901        -1.02388
+O          -5.52159         3.23238        -0.00034
+H          -5.16996         2.30668         0.00050
+
+
+
+
+
+
+
+           
+
+
+
+
+

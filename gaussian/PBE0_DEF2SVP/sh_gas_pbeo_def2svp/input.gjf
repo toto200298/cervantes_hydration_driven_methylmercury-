@@ -1,0 +1,20 @@
+%NProcShared=24
+%Chk=sh_gas_apfd_def2svp.chk
+
+#Opt Freq PBE1PBE/def2svp  Test
+
+Optimization sh-solvation 
+
+-1 1
+S        -3.48465        0.30495        0.00000
+H         -2.10900        0.30495        0.00000
+
+
+
+
+           
+
+
+
+
+

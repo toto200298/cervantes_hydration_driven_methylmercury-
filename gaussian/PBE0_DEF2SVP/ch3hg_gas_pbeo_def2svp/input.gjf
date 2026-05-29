@@ -1,0 +1,22 @@
+%NProcShared=24
+%Chk=ch3hg_gas_apfd.chk
+
+#Opt Freq PBE1PBE/def2svp 
+
+Optimization MeHg-adfd-def2svp-solvation 
+
+1 1
+C   -4.909229    1.550937   -0.000794
+Hg  -3.346030    3.112469    0.001000
+H   -4.663989    0.823982    0.775486
+H   -4.916639    1.078924   -0.984851
+H   -5.867890    2.029856    0.206158
+
+
+
+           
+
+
+
+
+

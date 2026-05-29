@@ -1,0 +1,19 @@
+%NProcShared=24
+%Chk=input09052022v4.chk
+
+#Opt Freq PBE1PBE/def2svp test 
+
+Optimization Cl-simulation
+
+-1 1
+F   0.00000 0.00000 0.00000
+
+
+
+
+           
+
+
+
+
+
