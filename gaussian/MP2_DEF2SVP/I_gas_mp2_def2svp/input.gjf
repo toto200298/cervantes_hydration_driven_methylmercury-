@@ -1,0 +1,19 @@
+%NProcShared=24
+%Chk=Br-apfd-def2svp.chk
+
+#Opt Freq mp2/def2svp int=UltraFine scf=xqc test
+
+Optimization Cl-simulation
+
+-1 1
+I   0.00000 0.00000 0.00000
+
+
+
+
+           
+
+
+
+
+

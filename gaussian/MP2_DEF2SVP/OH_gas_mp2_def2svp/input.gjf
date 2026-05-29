@@ -1,0 +1,21 @@
+%NProcShared=24
+%Chk=OH_solv_apfd.chk
+
+#Opt Freq mp2/def2svp int=UltraFine scf=xqc test
+
+Optimization OH-simulation
+
+-1  1
+O          -8.75409         1.69014         0.00000
+H          -9.07742         1.06652         0.66892
+
+
+
+
+
+           
+
+
+
+
+

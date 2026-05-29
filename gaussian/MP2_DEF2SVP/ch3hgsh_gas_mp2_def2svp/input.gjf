@@ -1,0 +1,38 @@
+%NProcShared=24
+%Chk=ch3hgSH_gas_apfd_def2svp.chk
+
+#Opt Freq mp2/def2svp int=UltraFine scf=xqc test  
+
+Optimization MeHgSH-gas-apfd-def2svp phase
+
+0  1
+C  -9.362536    1.350640    0.000330
+Hg   -7.227724    1.614486    0.000717
+H     -9.696274    1.111583    1.002768
+H   -9.624354    0.543067   -0.672731
+H     -9.836422    2.266727   -0.331541
+S      -4.799524    1.975112    0.000869
+H     -4.382717    0.684464   -0.000421
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+

@@ -1,0 +1,12 @@
+%NProcShared=24
+%Chk=sh_gas_afdd.chk
+
+#Opt Freq mp2/Def2svp int=UltraFine scf=xqc Test
+
+Optimization sh-solvation 
+
+-1 1
+S        -3.477033    0.304950    0.000000
+H        -2.116617    0.304950    0.000000
+
+
